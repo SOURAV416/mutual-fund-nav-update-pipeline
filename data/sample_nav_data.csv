@@ -1,0 +1,6 @@
+fund_id,fund_name,nav_date,nav_value,aum,category
+MF001,Alpha Equity Fund,2026-01-15,125.43,150000000,Equity
+MF002,Beta Large Cap Fund,2026-01-15,98.21,230000000,Equity
+MF003,Gamma Debt Fund,2026-01-15,10.56,540000000,Debt
+MF004,Delta Hybrid Fund,2026-01-15,45.87,175000000,Hybrid
+MF005,Epsilon Index Fund,2026-01-15,210.12,820000000,Index
