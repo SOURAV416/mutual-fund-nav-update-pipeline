@@ -11,7 +11,7 @@ The focus of this project is **reliable batch processing, clean data lake design
 
 ## Architecture
 
-![Architecture](architecture/architecture.png)
+![Architecture](https://github.com/SOURAV416/mutual-fund-nav-update-pipeline/blob/9ddd75fa846e4bbc68304ce999900a8332e23830/architecture.png)
 
 ### High-Level Flow
 - On-prem source systems generate daily NAV snapshots
